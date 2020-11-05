@@ -1,0 +1,9 @@
+Package: paniciR
+Type: Package
+Title: Example package for STAT 321
+Version: 1.0
+Date: 2020-11-05
+Author: Christian Panici
+Maintainer: cpanici@luc.edu
+Description: World-changing tools for the everyday statistician.
+License: GPL2
