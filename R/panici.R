@@ -1,5 +1,3 @@
-answer = function() {
-  return(42)
+letter = function(x=1) {
+  return(sample(letters, x))
 }
-
-answer()
